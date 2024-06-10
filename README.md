@@ -10,7 +10,7 @@ javac dates.java for compiling
 java dates for running 
 
 ## Description
-My project can be given a date input and outputs if it is valid. To make the day valid it must be written in numeric and can have a leading 0 if 1 digit but doesn't need to. The day must be a day that would exist in teh given month in the given year. To make month valid, it can be written similar to day in its numeric format with or without a leading 0, or it can be written in shorthand containing the first 3 letters of the month in all upper, all lower, or just the first character upper. To make year valid, it must be written in its numeric with 2 or 4 digitis. The given date must fall within the years 1753-3000. 
+My project can be given a date input and outputs if it is valid. To make the day valid it must be written in numeric and can have a leading 0 if 1 digit but doesn't need to. The day must be a day that would exist in the given month in the given year. To make month valid, it can be written similar to day in its numeric format with or without a leading 0, or it can be written in shorthand containing the first 3 letters of the month in all upper, all lower, or just the first character upper. To make year valid, it must be written in its numeric with 2 or 4 digitis. The given date must fall within the years 1753-3000. 
 
 ## Test Cases
 Valid:
